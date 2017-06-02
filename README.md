@@ -12,4 +12,10 @@ Cloned from [emoji-named-characters](https://github.com/lukekarrys/emoji-named-c
 
 License: MIT
 
+## Operating systems
+
+Downloaded from http://www.iconwanted.com/en/tatice/operating-systems-icons.html
+
+License: unknown
+
 :smile:
