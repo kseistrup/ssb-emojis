@@ -1,6 +1,7 @@
 &mbswbalo3Rki6MJdkFxyZyXip2vAb4oHQ+pTLs2lbIA=.sha256  apple_blue.png
 &pmYgZM5ScqcGDU9K295LbrMzwqMa0PRsMHER87ZAkDA=.sha256  apple_green.png
 &n79ArEJOMkN8E/zNaDZLSA7ERd9qoBQdiN17LMXKl0Q=.sha256  apple_rainbow.png
+&JqTmNSPIumuTM4cdCCbvUCdXGS7P3nNw9T2eB4Ihslc=.sha256  archlinux.png
 &++l4WrTWchcwutPSjEoW0XSgOjvPI5Li3AYFEqRABRM=.sha256  debian.png
 &FJx+5MPxw9p84d0zZn1aFQzK6VE1UMNHEn7eYvreOxE=.sha256  linux.png
 &m+bhfKinwq60Z/6oC9L2bqrxmD5hfbKUAekShQxuQQM=.sha256  raspberrypi.png
