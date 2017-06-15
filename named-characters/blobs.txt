@@ -763,6 +763,7 @@
 &khDqNlRVhJ75YuzRyb94ZQpBtVtqBieNH3lPlu7XKw4=.sha256  telescope.png
 &p7gUZdmmdZuruyXmflR5LkfDcQEShTSW9tobjNobxJo=.sha256  tennis.png
 &ypzhcIylfrtsbq3obtaXt4raH+Sl1gbbNDSjCY2mTPw=.sha256  tent.png
+&WUxLT4aA93/bREjqjnwJHaDCmoICOVAiYjHpx9Fgdhk=.sha256  thinking.png
 &HdG0Bk3duT4/JR01Spl04FEhNBoUl5Vt9Yu8dwKKTa4=.sha256  thought_balloon.png
 &ZjYiSXJeK5/yJLGRSt0gEXlDRZxUnu9J2E8ZG9UnCqg=.sha256  three.png
 &09tP7wkJYhi/TrhRkUvw5JYROEnx7W3xyxEAci5p09w=.sha256  thumbsdown.png
