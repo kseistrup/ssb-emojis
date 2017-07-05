@@ -1,3 +1,4 @@
+&pJrtAeKtPPCE83A7gNqR4q07fqzJbbOkY/SPKvOwnbY=.sha256  amiga.png
 &mbswbalo3Rki6MJdkFxyZyXip2vAb4oHQ+pTLs2lbIA=.sha256  apple_blue.png
 &pmYgZM5ScqcGDU9K295LbrMzwqMa0PRsMHER87ZAkDA=.sha256  apple_green.png
 &n79ArEJOMkN8E/zNaDZLSA7ERd9qoBQdiN17LMXKl0Q=.sha256  apple_rainbow.png
