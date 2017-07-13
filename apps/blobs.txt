@@ -1,2 +1,3 @@
 &hmB09qyyaNFKIQ3WQy2ejKukJN+moKuTAT2NEW1F+uI=.sha256  conversations.png
+&ry0+mF744IS6/f/jJ9LT1A75hN91wV4ivfz57p7l7+s=.sha256  gajim.png
 &p8fG7pzTwRf1D6Sj/wryh3yV/NcqU9zL2i2rxOlZjSs=.sha256  telegram.png
